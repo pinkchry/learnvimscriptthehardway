@@ -61,6 +61,6 @@ Read [`:help echo`][echo].
 Read [`:help echom`][echom].
 [echom]: http://vimdoc.sourceforge.net/htmldoc/eval.html#:echom
 Read [`:help messages`][messages].
-[messages]: http://vimdoc.sourceforge.net/htmldoc/eval.html#messages
+[messages]: http://vimdoc.sourceforge.net/htmldoc/messages.html#messages
 Add a line to your `~/.vimrc` file that displays a friendly ASCII-art cat
 (`>^.^<`) whenever you open Vim.
