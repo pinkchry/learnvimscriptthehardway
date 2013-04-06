@@ -56,11 +56,11 @@ happens).
 Exercises
 ---------
 
-Read `:help echo`.
-
-Read `:help echom`.
-
-Read `:help messages`.
-
+Read [`:help echo`][echo].
+[echo]: http://vimdoc.sourceforge.net/htmldoc/eval.html#:echo
+Read [`:help echom`][echom].
+[echom]: http://vimdoc.sourceforge.net/htmldoc/eval.html#:echom
+Read [`:help messages`][messages].
+[messages]: http://vimdoc.sourceforge.net/htmldoc/eval.html#messages
 Add a line to your `~/.vimrc` file that displays a friendly ASCII-art cat
 (`>^.^<`) whenever you open Vim.
