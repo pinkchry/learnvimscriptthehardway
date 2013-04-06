@@ -57,10 +57,10 @@ Exercises
 ---------
 
 Read [`:help echo`][echo].
-[echo]: http://vimdoc.sourceforge.net/htmldoc/eval.html#:echo
+[echo]: http://vimdoc.sourceforge.net/search.php?docs=help&search=echo
 Read [`:help echom`][echom].
-[echom]: http://vimdoc.sourceforge.net/htmldoc/eval.html#:echom
+[echom]: http://vimdoc.sourceforge.net/search.php?docs=help&search=echom
 Read [`:help messages`][messages].
-[messages]: http://vimdoc.sourceforge.net/htmldoc/messages.html#messages
+[messages]: http://vimdoc.sourceforge.net/search.php?docs=help&search=messages
 Add a line to your `~/.vimrc` file that displays a friendly ASCII-art cat
 (`>^.^<`) whenever you open Vim.
